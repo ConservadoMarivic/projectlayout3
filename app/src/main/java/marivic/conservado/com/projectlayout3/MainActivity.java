@@ -46,9 +46,8 @@ public class MainActivity extends Activity {
         listDataChild = new HashMap<String, List<String>>();
 
         // Adding child data
-        listDataHeader.add("PHIVOLCS");
-        listDataHeader.add("NDRRMC");
-        listDataHeader.add("Coming Soon..");
+        listDataHeader.add("Philippine Institute of Volcanology and Seismology (PHIVOLCS)");
+        listDataHeader.add("National Disaster Risk Reduction and Management Council (NDRRMC)");
 
         // Adding child data
         List<String> PHIVOLCS = new ArrayList<String>();
